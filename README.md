@@ -1,5 +1,5 @@
 <h1 align="center">SUFU</h1>
-MY Skills
+<kbd align="center"> MY Skills</kbd>
 <div align="center">
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width: 200px; height: 44px;" width="200" height="44" />
@@ -24,6 +24,7 @@ MY Skills
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" style="width: 200px; height: 44px;" width="200" height="44" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" style="width: 200px; height: 44px;" width="200" height="44"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" style="width: 200px; height: 44px;" width="200" height="44" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="width: 200px; height: 44px;" width="200" height="44" />
           
           
           
