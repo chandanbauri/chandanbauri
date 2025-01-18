@@ -36,37 +36,15 @@
   <ul id="projects-list"></ul>
 </div>
 
-<script>
-  async function loadProjects() {
-    const username = 'chandanbauri';
-    try {
-      const response = await fetch(`https://api.github.com/users/${username}/repos`);
-      if (!response.ok) throw new Error('Failed to fetch repositories');
-      const projects = await response.json();
-
-      const projectsList = document.getElementById('projects-list');
-      projects.forEach(project => {
-        const projectItem = document.createElement('li');
-        projectItem.innerHTML = `<a href="${project.html_url}" target="_blank">${project.name}</a>: ${project.description || 'No description provided.'}`;
-        projectsList.appendChild(projectItem);
-      });
-    } catch (error) {
-      console.error('Error loading projects:', error);
-    }
-  }
-
-  loadProjects();
-</script>
-
 <div align="center">
   <h2>Connect with Me</h2>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/chandan-bauri-005988135/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
+  <a href="https://x.com/bauri_chandan" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:your_email@example.com" target="_blank">
+  <a href="mailto:chandanbauri441@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
