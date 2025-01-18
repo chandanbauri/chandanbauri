@@ -32,11 +32,6 @@
 </div>
 
 <div align="center">
-  <h2>Projects</h2>
-  <ul id="projects-list"></ul>
-</div>
-
-<div align="center">
   <h2>Connect with Me</h2>
   <a href="https://www.linkedin.com/in/chandan-bauri-005988135/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
