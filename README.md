@@ -10,8 +10,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 44px; height: 44px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="width: 44px; height: 44px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 44px; height: 44px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="width: 44px; height: 44px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="width: 44px; height: 44px;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/rust.svg" style="width: 44px; height: 44px;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/amazonaws.svg" style="width: 44px; height: 44px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 44px; height: 44px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain.svg" style="width: 44px; height: 44px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="width: 44px; height: 44px;" />
